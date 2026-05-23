@@ -15,5 +15,9 @@ def test_login(setup):
     page.get_by_role("button",name="Login").click()
     time.sleep(4)
 
+def test_two():
+    print("test_two is executed")
+    pass
+
 
 
