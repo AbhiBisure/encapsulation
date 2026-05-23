@@ -16,5 +16,10 @@ def test_login(setup):
     time.sleep(4)
 
 
+def test_two():
+    print("test_two is executed")
+    pass
+
+
 
 
